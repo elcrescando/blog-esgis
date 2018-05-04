@@ -1,6 +1,13 @@
 # blog-esgis
 Le blog de ESGIS
 
+## Membres du groupe
+- ADETI
+- AZIAKESSE
+- FREEMAN
+- NENONENE
+- ZONYO
+
 ## Objectif
 ESGIS souhaite se doter d'un blog moderne afin d'informer son auditoire (le public) des dernières actualités en son sein. 
 
