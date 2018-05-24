@@ -29,3 +29,4 @@ Chaque groupe est composé de 4 personnes (en général). Les étudiants sont in
 Les étudiants sont appelés à travailler avec Git et Github. Ils doivent s'appuyer sur les notions vues en classes mais aussi des nombreuses ressources disponibles en ligne afin de **créer leur propre branche vers laquelle pousser leur travail personnel**. Cela signifie que chaque étudiant aura sa propre branche, contenant son travail.
 
 
+
